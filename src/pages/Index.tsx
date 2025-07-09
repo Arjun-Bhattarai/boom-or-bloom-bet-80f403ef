@@ -1,8 +1,8 @@
 
-import GameBoard from '@/components/GameBoard';
+import Home from './Home';
 
 const Index = () => {
-  return <GameBoard />;
+  return <Home />;
 };
 
 export default Index;
